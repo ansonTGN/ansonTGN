@@ -9,7 +9,12 @@
 Hello and welcome to my GitHub page! I'm Angel A. Urbina, an Industrial Engineer with a Master's degree in Data Science, currently working at the Industrial Center Tarragona of REPSOL in Tarragona, Spain.
 
 <div>
-  <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true" width="50%" height="auto"/>
+  
+<!--  <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true" width="50%" height="auto"/> -->
+
+  <img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact" width="50%" height="auto"/>
+
+
   
   #### 😃 What Drives Me:
 
