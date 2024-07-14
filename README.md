@@ -29,7 +29,7 @@ Hello and welcome to my GitHub page! I'm Angel A. Urbina, an Industrial Engineer
   #### 🌱 Current Endeavors:
 
   - Implementing AI Solutions ([Mistral AI](https://www.mistral.ai/), [LLaMA](https://ai.meta.com/about/), [OpenAI](https://openai.com/about/))
-  - Exploring Advanced Data Analysis Techniques [Repsol's Use of Data Science and AI](https://youtu.be/pR3zfoKT8nw?si=bKvrWTXds8H790N-)
+  - Exploring Advanced Data Analysis Techniques ([Repsol's Use of Data Science and AI](https://youtu.be/pR3zfoKT8nw?si=bKvrWTXds8H790N-))
 
   #### :muscle: Rising to Challenges:
 
