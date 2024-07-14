@@ -8,7 +8,7 @@
 [![Personal Website](https://img.shields.io/badge/-Personal%20Website-4CAF50?style=flat&logo=Internet-Explorer&logoColor=white)](https://ansontgn.github.io/)
 
 
-Hello and welcome to my GitHub page! I'm Angel A. Urbina, an Industrial Engineer with a Master's degree in Data Science, currently working at the Industrial Center Tarragona of REPSOL in Tarragona, Spain.
+Hello and welcome to my GitHub page! I'm Angel A. Urbina, an Industrial Engineer with a Master's degree in Data Science, currently working at the Industrial Complex REPSOL in Tarragona, Spain.
 
 <div>
   
