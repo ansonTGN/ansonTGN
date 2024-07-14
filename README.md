@@ -44,10 +44,7 @@ Hello and welcome to my GitHub page! I'm Angel A. Urbina, an Industrial Engineer
   <img width="10%" src="https://www.vectorlogo.zone/logos/sap/sap-ar21.svg"><br>
   <img width="10%" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"><br>
-  <img width="10%" src="https://seeklogo.com/vector-logo/515007/mistral-ai">
   <img width="10%" src="https://huggingface.co/front/assets/huggingface_logo.svg">
-  <img width="10%" src="https://seeklogo.com/vector-logo/404686/llama">
-  <img width="10%" src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png">
   <img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg">
 </p>
