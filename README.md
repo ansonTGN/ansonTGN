@@ -9,7 +9,7 @@
 [![Another Website](https://img.shields.io/badge/-Another%20Website-009688?style=flat&logo=Globe&logoColor=white)](https://usuaris.tinet.cat/anson/)
 
 
-Hello and welcome to my GitHub page! I'm Angel A. Urbina, an Industrial Engineer with a Master's degree in Data Science, currently working at the Industrial Complex REPSOL in Tarragona, Spain.
+Hello and welcome to my GitHub page! I'm Angel A. Urbina, an Industrial Engineer with a Master's degree in Data Science, currently working at the Industrial Complex [![Repsol](https://img.shields.io/badge/-Repsol-FF5700?style=flat&logo=Repsol&logoColor=white)](https://www.repsol.com) in Tarragona, Spain.
 
 <div>
   
