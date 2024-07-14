@@ -9,7 +9,7 @@
 [![Another Website](https://img.shields.io/badge/-Another%20Website-009688?style=flat&logo=Globe&logoColor=white)](https://usuaris.tinet.cat/anson/)
 
 
-Hello and welcome to my GitHub page! I'm Angel A. Urbina, an Industrial Engineer with a Master's degree in Data Science, currently working at the Industrial Complex [![Repsol](https://img.shields.io/badge/-Repsol-FF5700?style=flat&logo=Repsol&logoColor=white)](https://www.repsol.com) in Tarragona, Spain.
+Hello and welcome to my GitHub page! I'm Angel A. Urbina, an Industrial Engineer with a Master's degree in Data Science, currently working at the Industrial Complex [![Repsol](https://img.shields.io/badge/-Repsol-FF5700?style=flat&logo=Repsol&logoColor=white)](https://www.repsol.com/en) in Tarragona, Spain.
 
 <div>
   
@@ -28,7 +28,7 @@ Hello and welcome to my GitHub page! I'm Angel A. Urbina, an Industrial Engineer
 
   #### 🌱 Current Endeavors:
 
-  - Implementing AI Solutions
+  - Implementing AI Solutions ([Mistral AI](https://www.mistral.ai/), [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-openai/), [OpenAI](https://www.openai.com/))
   - Exploring Advanced Data Analysis Techniques
 
   #### :muscle: Rising to Challenges:
@@ -53,7 +53,7 @@ Hello and welcome to my GitHub page! I'm Angel A. Urbina, an Industrial Engineer
 #### Education:
 
 - **MSc in Data Science** - [Universitat Oberta de Catalunya](https://www.uoc.edu/en) ![UOC](https://www.uoc.edu/portal/_resources/common/imatges/marca/UOC_logo_simplificado_color_1.png)
-- **MSc in Industrial Engineering** - [ETSII, University of Seville](https://www.etsii.us.es/index.php/la-escuela) ![ETSII](https://www.etsii.us.es/sites/all/themes/tema_etsii/logo.png)
+- **MSc in Industrial Engineering** - [ETSII, University of Seville](https://etsi.us.es/en/) ![ETSII](https://www.etsii.us.es/sites/all/themes/tema_etsii/logo.png)
 
 Feel free to reach out if you want to collaborate on exciting projects or just want to connect!
 
