@@ -4,7 +4,9 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ansonTGN)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/angelurbina/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ansonTGN)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/angelurbinaTGN)
+[![Personal Website](https://img.shields.io/badge/-Personal%20Website-4CAF50?style=flat&logo=Internet-Explorer&logoColor=white)](https://ansontgn.github.io/)
+
 
 Hello and welcome to my GitHub page! I'm Angel A. Urbina, an Industrial Engineer with a Master's degree in Data Science, currently working at the Industrial Center Tarragona of REPSOL in Tarragona, Spain.
 
