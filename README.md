@@ -28,7 +28,7 @@ Hello and welcome to my GitHub page! I'm Angel A. Urbina, an Industrial Engineer
 
   #### 🌱 Current Endeavors:
 
-  - Implementing AI Solutions ([Mistral AI](https://www.mistral.ai/), [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-openai/), [OpenAI](https://www.openai.com/))
+  - Implementing AI Solutions ([Mistral AI](https://www.mistral.ai/), [LLaMA](https://ai.meta.com/about/), [OpenAI](https://openai.com/about/))
   - Exploring Advanced Data Analysis Techniques
 
   #### :muscle: Rising to Challenges:
