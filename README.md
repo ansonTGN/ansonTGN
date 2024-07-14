@@ -52,7 +52,7 @@ Hello and welcome to my GitHub page! I'm Angel A. Urbina, an Industrial Engineer
 #### Education:
 
 - **MSc in Data Science** - (Universitat Oberta de Catalunya)
-- **MSs in Industrial Engineering** - (ETSII, Seville University)
+- **MSc in Industrial Engineering** - (ETSII, Seville University)
 
 Feel free to reach out if you want to collaborate on exciting projects or just want to connect!
 
