@@ -52,11 +52,12 @@ Hello and welcome to my GitHub page! I'm Angel A. Urbina, an Industrial Engineer
 
 #### Education:
 
-- **MSc in Data Science** - (Universitat Oberta de Catalunya) ![UOC](https://www.uoc.edu/portal/_resources/common/imatges/marca/UOC_logo_simplificado_color_1.png)
-- **MSc in Industrial Engineering** - (ETSII, Seville University) ![ETSII](https://www.etsi.us.es/static/img/logo_etsi.jpg)
+- **MSc in Data Science** - [Universitat Oberta de Catalunya](https://www.uoc.edu/en) ![UOC](https://www.uoc.edu/portal/_resources/common/imatges/marca/UOC_logo_simplificado_color_1.png)
+- **MSc in Industrial Engineering** - [ETSII, University of Seville](https://www.etsii.us.es/index.php/la-escuela) ![ETSII](https://www.etsii.us.es/sites/all/themes/tema_etsii/logo.png)
 
 Feel free to reach out if you want to collaborate on exciting projects or just want to connect!
 
 ---
 
 *This README was generated with ❤️ by AAUS 2024.*
+
