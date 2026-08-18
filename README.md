@@ -8,46 +8,41 @@
 [![Personal Website](https://img.shields.io/badge/-Personal%20Website-4CAF50?style=flat&logo=Internet-Explorer&logoColor=white)](https://ansontgn.github.io/)
 [![Another Website](https://img.shields.io/badge/-Another%20Website-009688?style=flat&logo=Globe&logoColor=white)](https://usuaris.tinet.cat/anson/)
 
-
 Hello and welcome to my GitHub page! I'm Angel A. Urbina, an Industrial Engineer with a Master's degree in Data Science, currently working at the Industrial Complex [![Repsol](https://img.shields.io/badge/-Repsol-FF5700?style=flat&logo=Repsol&logoColor=white)](https://www.repsol.com/en) in Tarragona, Spain.
 
 <div>
   
-<!--  <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true" width="50%" height="auto"/> -->
-
-<!--  <img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact" width="50%" height="auto"/> -->
-
-
-  
   #### 😃 What Drives Me:
 
-  - Crafting Innovative AI Solutions
-  - Delving into the Depths of Data Science
-  - Optimizing Industrial Processes
-  - Exploring the Latest Technologies
+  - **High-Performance Engineering:** Leveraging **Rust** for safe, concurrent, and ultra-fast systems.
+  - **Global AI Ecosystem:** Implementing State-of-the-Art models from both Western and Asian labs.
+  - **Industrial Intelligence:** Bridging the gap between complex industrial processes and advanced Data Science.
 
   #### 🌱 Current Endeavors:
 
-  - Implementing AI Solutions ([Mistral AI](https://www.mistral.ai/), [LLaMA](https://ai.meta.com/about/), [OpenAI](https://openai.com/about/))
-  - Exploring Advanced Data Analysis Techniques ([Repsol's Use of Data Science and AI](https://youtu.be/pR3zfoKT8nw?si=bKvrWTXds8H790N-))
+  - **Rust Ecosystem:** Developing high-performance tools and exploring WebAssembly (Wasm) and backend efficiency.
+  - **Frontier AI Models:** 
+    - **Global Leaders:** GPT-4o, Llama 3.1, Claude 3.5 Sonnet, and Mistral Large 2.
+    - **Asia's Powerhouses:** **Kimi** (Moonshot AI), **Qwen 2.5** (Alibaba), **DeepSeek-V2.5**, and **Yi-Large**.
+  - **Advanced Analytics:** Exploring [Repsol's Use of Data Science and AI](https://www.repsol.com/en/energy-and-the-future/technology-and-digitalization/data-science-and-artificial-intelligence/index.cshtml).
 
   #### :muscle: Rising to Challenges:
 
-  - Architecting Systems That Make a Difference
-  - Perpetual Growth and Learning
+  - Building scalable AI architectures with long-context capabilities (200k+ tokens).
+  - Integrating Rust in data-heavy pipelines to optimize resource consumption.
 </div>
 
 #### :computer: Languages and Tools I Embrace:
 
 <p align="left">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/sap/sap-ar21.svg"><br>
   <img width="10%" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"><br>
   <img width="5%" src="https://huggingface.co/front/assets/huggingface_logo.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
 </p>
 
 #### Education:
@@ -59,5 +54,4 @@ Feel free to reach out if you want to collaborate on exciting projects or just w
 
 ---
 
-*This README was generated with ❤️ by AAUS 2024.*
-
+*This README was updated with ❤️ by AAUS 2024.*
